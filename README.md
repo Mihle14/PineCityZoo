@@ -22,8 +22,12 @@ support a clear and effective navigation for individuals.
 
 ## 📁 Getting Started
 
-To run the app locally:
+To run the app:
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Mihle14/PineCityZoo.git
+   ```
+2. **Open the Website**
+
+   🌐 Demo: https://mihle14.github.io/PineCityZoo/
